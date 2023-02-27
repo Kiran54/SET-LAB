@@ -1,2 +1,2 @@
 # SET-LAB
-Software Engineering Tools LAB Assignment.
+Software Engineering Tools LAB Assignment Submission.
